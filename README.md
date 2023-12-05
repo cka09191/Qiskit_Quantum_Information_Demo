@@ -1,1 +1,1 @@
-# Qiskit_Quantum_Information_Demo
+# Qiskit Quantum Information Demo
