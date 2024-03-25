@@ -1,0 +1,17 @@
+qiskit
+scipy>=1.4
+numpy>=1.17
+psutil>=5
+matplotlib
+scikit-learn>=1.2.0
+fastdtw
+setuptools>=40.1.0
+dill>=0.3.4
+qiskit-ibm-runtime
+qiskit[visualization]
+pylatexenc
+pdflatex
+ipykernel
+ipython
+qiskit-aer
+
